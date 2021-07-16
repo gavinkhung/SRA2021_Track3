@@ -1,3 +1,4 @@
 .ipynb_checkpoints/*
 .ipynb*
 venv/
+*-e00.fits.fz
